@@ -40,20 +40,20 @@
 
 ### 👨‍💻 Founder & Lead Engineer
 
-**manniche labs** er grundlagt og drevet af **[Mikkel Manniche](https://github.com/mikkelmanniche-dk)** — Full-Stack Udvikler & Digital Løsningsarkitekt med fokus på moderne webudvikling og enterprise-arkitektur.
+**manniche labs** is founded and led by **[Mikkel Manniche](https://github.com/mikkelmanniche-dk)** — Full-Stack Developer & Digital Solutions Architect specializing in modern web engineering and enterprise architecture.
 
 <div align="center">
   <br />
   <a href="https://github.com/mikkelmanniche-dk">
-    <img src="https://img.shields.io/badge/Besøg_personlig_GitHub_profil-@mikkelmanniche--dk-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Mikkel Manniche GitHub" />
+    <img src="https://img.shields.io/badge/GitHub_Profile-@mikkelmanniche--dk-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Mikkel Manniche GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://mikkelmanniche.dk">
-    <img src="https://img.shields.io/badge/Besøg_Platformen-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb" alt="mikkelmanniche.dk" />
+    <img src="https://img.shields.io/badge/Platform-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb" alt="mikkelmanniche.dk" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mikkelmanniche/">
-    <img src="https://img.shields.io/badge/Forbind_på_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mikkel_Manniche-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
