@@ -7,8 +7,8 @@
 
   <br />
 
-  [![Platform](https://img.shields.io/badge/Official_Platform-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb)](https://mikkelmanniche.dk)
-  [![Founder](https://img.shields.io/badge/Founder-Mikkel_Manniche-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikkelmanniche-dk)
+  [![Platform](https://img.shields.io/badge/Platform-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb)](https://mikkelmanniche.dk)
+  [![Lead Engineer](https://img.shields.io/badge/Founder-@mikkelmanniche--dk-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikkelmanniche-dk)
   [![Contact](https://img.shields.io/badge/Contact-kontakt@mikkelmanniche.dk-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@mikkelmanniche.dk)
 
 </div>
@@ -32,6 +32,27 @@
 * **Modern E-Commerce & Growth:** Scalable, conversion-focused online stores and funnels built on **Shopify**, **WooCommerce**, and custom architectures.
 * **Security & Infrastructure:** Content Security Policy (CSP) hardening, CORS enforcement, Cloudflare protection, and cloud deployments on **Simply.com** and **Vercel**.
 * **Quality Assurance & AI-Assisted Workflows:** Automated code reviews, rigorous linting standards, and modern AI debugging pipelines (**CodeRabbit**, **Claude**, **OpenAI**).
+
+---
+
+### 👨‍💻 Founder & Lead Engineer
+
+**manniche labs** er grundlagt og drevet af **[Mikkel Manniche](https://github.com/mikkelmanniche-dk)** — Full-Stack Udvikler & Digital Løsningsarkitekt med fokus på moderne webudvikling og enterprise-arkitektur.
+
+<div align="center">
+  <br />
+  <a href="https://github.com/mikkelmanniche-dk">
+    <img src="https://img.shields.io/badge/Besøg_personlig_GitHub_profil-@mikkelmanniche--dk-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Mikkel Manniche GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mikkelmanniche.dk">
+    <img src="https://img.shields.io/badge/Besøg_Platformen-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb" alt="mikkelmanniche.dk" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mikkelmanniche/">
+    <img src="https://img.shields.io/badge/Forbind_på_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
