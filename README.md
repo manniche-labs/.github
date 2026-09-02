@@ -1,5 +1,8 @@
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/manniche-labs/.github/main/assets/logo.jpg" width="140" height="140" alt="manniche labs logo" style="border-radius: 24px;" />
+  <br />
+
   # manniche labs 🧪
   
   ### Software Architecture & Digital Product Studio
