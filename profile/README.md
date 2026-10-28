@@ -8,7 +8,7 @@ Things I build for my own projects and tidy up so others can use them.
 
 | Project | What it is |
 |---|---|
-| [ui](https://github.com/manniche-labs/ui) | 58 React components for AI interfaces as a shadcn registry, plus Claude Code skills (design-bake-off, page-critic) and agents. |
+| [ui](https://github.com/manniche-labs/ui) | 81 React components and 5 page templates for AI interfaces, served as a shadcn registry. |
 | [receipt-scanner-core](https://github.com/manniche-labs/receipt-scanner-core) | Receipt schemas and Vision prompts for German and Danish VAT. |
 | [apache-spa-security-hardening](https://github.com/manniche-labs/apache-spa-security-hardening) | .htaccess and CSP rules for SPAs on Apache. |
 | [next-enterprise-starter](https://github.com/manniche-labs/next-enterprise-starter) | Next.js 16 + React 19 + Tailwind 4 starter with security defaults. |
